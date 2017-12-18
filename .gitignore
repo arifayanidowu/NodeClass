@@ -1,0 +1,7 @@
+/.vagrant
+/vagrantfile
+/node_modules
+/package.json
+/package-lock.json
+/launch.json
+/setting.json
